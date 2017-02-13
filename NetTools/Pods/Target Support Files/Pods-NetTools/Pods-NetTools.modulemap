@@ -1,0 +1,6 @@
+framework module Pods_NetTools {
+  umbrella header "Pods-NetTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

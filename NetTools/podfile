@@ -1,0 +1,3 @@
+target 'NetTools'
+use_frameworks!
+pod 'AFNetworking', '~> 3.0'
